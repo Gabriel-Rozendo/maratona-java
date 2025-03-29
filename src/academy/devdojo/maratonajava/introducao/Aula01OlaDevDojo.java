@@ -1,3 +1,5 @@
+package academy.devdojo.maratonajava.introducao;
+
 public class Aula01OlaDevDojo {
     // Isso é um comentário de uma linha
 
